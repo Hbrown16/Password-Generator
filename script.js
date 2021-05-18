@@ -50,21 +50,20 @@ var result = "";
 
 //Function generatePassword makes sure password passes
 console.log(Outcomes);
-console.log (results);
-
+console.log (result);
 for (var i =0; i < pwLength; i++) {
   // random array selection
   var randomArray = Outcomes [Math.floor(Math.random() * Outcomes.length)];
   console.log(randomArray);
   // Random Character selector
   var randomChar = randomArray [Math.floor(Math.random() * randomArray.length)];
-  console.log(radnomChar)
+  console.log(randomChar)
 
   result += randomChar;
   console.log(result);
     }
 return result
-  }
+}
 
 // Write password to the #password input
 function writePassword() {
