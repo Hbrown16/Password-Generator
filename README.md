@@ -3,7 +3,7 @@
 ## Week 3 Homework
 
 ## Link
-[DeployedLink]
+[DeployedLink](file:///Users/haley/projects/Password-Generator/Password-Generator/index.html)
 
 ## Assignment Description
 In this assignment we were given HTML, CSS complete code and were given Javascript code that was incomplete that we are to complete. The site is a password generator the asks questions to then help generate a password. 
