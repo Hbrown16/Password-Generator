@@ -14,7 +14,12 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  background: hsla(223, 81%, 51%, 1);
+  background: radial-gradient(circle, hsla(223, 81%, 51%, 1) 0%, hsla(185, 75%, 64%, 1) 100%);
+  background: -moz-radial-gradient(circle, hsla(223, 81%, 51%, 1) 0%, hsla(185, 75%, 64%, 1) 100%);
+  background: -webkit-radial-gradient(circle, hsla(223, 81%, 51%, 1) 0%, hsla(185, 75%, 64%, 1) 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#1E57E8", endColorstr="#5DDCE8", GradientType=1 );
+  
 }
 
 .wrapper {
@@ -31,7 +36,7 @@ header {
 }
 
 .card {
-  background-color: hsl(0, 0%, 100%);
+  background-color: hsl(290, 54%, 75%);
   border-radius: 5px;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
