@@ -32,15 +32,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## My Site
 
-
-
-
-
-
-
-
-
-
+![My site](https://raw.githubusercontent.com/Hbrown16/Password-Generator/main/images/Screen%20Shot%202021-05-18%20at%208.24.56%20PM.png)
 
 
 ## Helpful Links
