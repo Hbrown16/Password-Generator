@@ -33,5 +33,18 @@ THEN the password is either displayed in an alert or written to the page
 ## My Site
 
 
+
+
+
+
+
+
+
+
+
+
 ## Helpful Links
 
+[Gradient Maker](https://coolors.co/gradient-maker/1e57e8-5ddce8?position=0,100&opacity=100,100&type=radial&rotation=90)
+
+[W3 Schools](https://www.w3schools.com/js/default.asp)
